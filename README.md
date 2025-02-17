@@ -1,22 +1,31 @@
-# Contributing guidelines for the MIMI project
+# Contributor guidelines for the MIMI project
 
-Welcome to the contributing guidelines for the MIMI project. This documentation will outline some basic principles and best practices to follow when making contributions to the project. 
+Welcome to the GitHub contributor guidelines for MIMI. This documentation will outline some basic principles and best practices to follow when using GitHub to make contributions to MIMI. 
 
 These guidelines assume that you have prior experience of using GitHub, therefore if you are completely new to GitHub, it's recommended that you read the following [introductory documentation](https://docs.github.com/en/get-started/start-your-journey) and access this [introductory course](https://skills.github.com/).
 
-Whilst every effort has been made to ensure that these guidelines are as detailed as possible, it's likely that some aspects of contributing are not covered. Therefore if you do have any questions, please contact us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org).
-
-
-### Permissions
-
-If you would like to contribute to the MIMI project, please reach out to us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org) to discuss your proposeed contribution, and to arrange contributor access to a repository.
-
+Whilst every effort has been made to ensure that these guidelines are as detailed as possible, it's likely that some aspects of contributing are not covered. Therefore if you do have any questions, please discuss with one of us, or email us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org).
 
 ### Creating a new repository
 
+For each MIMI data or coding project, a GitHub repository is recommended to store and manage your code. If you are an internal team member, you will need to login to the MIMI-wfp account to get a repository set up. Once you are logged in, click on the "Repositories" tab, and then click "New". Give your repository a suitable and self-explanatory name, and decide if you would like your repository to private or public. We recommended that you initialise your repository with a README file, a .gitignore and a GNU General Public License v3.0. Finally, click "Create repository" to complete the process.
+
+If you are an external collaborator, you won't have access to the MIMI-wfp account. Therefore, please discuss with your MIMI focal point, or email us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org) to get a repository set up.
+
+
+### Managing access
+
+Next, you will need to give access permissions to any collaborators who will require access to the repository. To do this, you will need to open the "Settings" tab of your repository. In the left-hand panel, click "Collaborators", and then "Add people" as shown in the image below:
+
+![github_contributor](https://github.com/user-attachments/assets/ac305d25-2759-4f1e-a0dd-59618e3426ab)
+
+
+If you would like to contribute to an existing MIMI project, please reach out to us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org) to discuss your proposeed contribution, and to arrange contributor access to a repository.
+
+
 ### Cloning a repository
 
-So that you can start contributing to the MIMI repository, you may wish to clone a repository to your local machine or cloud hosted development environment. To do so, please follow the these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). If you use the GitHub Desktop app, you can alternatively follow these [instructions](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
+So that you can start contributing to a project, you may wish to clone a repository to your local machine or cloud hosted development environment. To do so, please follow the these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). If you use the GitHub Desktop app, you can alternatively follow these [instructions](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 
 ### Repository structure
 
