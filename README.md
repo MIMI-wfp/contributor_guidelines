@@ -33,9 +33,7 @@ If you use the GitHub Desktop app, you can alternatively follow these [instructi
 
 ### Branches
 
-We would recommend that the main branch in your repository should only contain finalised and clean code, therefore avoid committing changes directly to the main branch. Instead, we recommend creating a new branch for any code that is a work in progress, and agreeing a naming convention for branches with your co-collaborators.
-
-If you would like to learn more about branches, please read the following [documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches).
+We would recommend that the main branch in your repository should only contain finalised and clean code, therefore avoid committing changes directly to the main branch. Instead, we recommend creating a new branch for any code that is a work in progress, and agreeing a naming convention for branches with your co-collaborators. (You can learn more about branches [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches))
 
 Once you are happy that the code in your branch is ready to be merged into the main branch, you can then submit a pull request.
 
