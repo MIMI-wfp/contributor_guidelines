@@ -2,7 +2,7 @@
 
 Welcome to the GitHub contributor guidelines for MIMI. This documentation will outline some basic principles and best practices to follow when using GitHub to make contributions to MIMI. 
 
-These guidelines assume that you have prior experience of using GitHub, therefore if you are completely new to GitHub, it's recommended that you read the following [introductory documentation](https://docs.github.com/en/get-started/start-your-journey) and access this [introductory course](https://skills.github.com/).
+These guidelines assume that you have some prior experience of using GitHub, therefore if you are completely new to GitHub, it's recommended that you read the following [introductory documentation](https://docs.github.com/en/get-started/start-your-journey) and access this [introductory course](https://skills.github.com/).
 
 Whilst every effort has been made to ensure that these guidelines are as detailed as possible, it's likely that some aspects of contributing are not covered. Therefore if you do have any questions, please discuss with one of us, or email us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org).
 
