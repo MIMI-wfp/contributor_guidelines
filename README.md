@@ -19,13 +19,14 @@ Next, you will need to give access permissions to any collaborators who will req
 
 ![github_contributor](https://github.com/user-attachments/assets/ac305d25-2759-4f1e-a0dd-59618e3426ab)
 
+The collaborators you have invited will now have full access to the repository, and will therefore be able to pull (read) the contents of the repository, and push (write) changes to the repository. They will also be able to perform other actions such as cloning and forking repositories, or creating branches.
 
-If you would like to contribute to an existing MIMI project, please reach out to us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org) to discuss your proposeed contribution, and to arrange contributor access to a repository.
+If you are an external collaborator and require access to a repository, please discuss with your MIMI focal point, or email us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org).
 
 
 ### Cloning a repository
 
-So that you can start contributing to a project, you may wish to clone a repository to your local machine or cloud hosted development environment. To do so, please follow the these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). If you use the GitHub Desktop app, you can alternatively follow these [instructions](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
+So that you can start working on a project from your computer, you may wish to clone the repository to your local machine or cloud hosted development environment. To do so, please follow the these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). If you use the GitHub Desktop app, you can alternatively follow these [instructions](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 
 ### Repository structure
 
