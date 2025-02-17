@@ -30,32 +30,14 @@ So that you can start working on a project from your computer, you may wish to c
 
 If you use the GitHub Desktop app, you can alternatively follow these [instructions](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 
-### Repository structure
-
-The structure of this repository is outlined in the [README.md](https://github.com/kmtang/MIMI/blob/main/README.md#introducing-the-mimi-github-repository) file. As explained, it's organised into 4 sub-sections: 
-
-* `data_constrained` - Projects relating to MIMI data-constrained contexts<br>
-* `data_rich` - Projects relating to MIMI data-rich contexts<br>
-* `training` - Code and materials used for training and workshops<br>
-* `universal_functions` - Code and functions applicable across all projects, regardless of context
-
-Please ensure that your contributions are pushed to most relevant section of the repository, if you are unsure, please discuss with the MIMI team.
 
 ### Branches
 
-The main branch in this repository should only contain finalised and clean code, therefore please do not commit your changes directly to the main branch!
-
-Therefore please create a new branch for any code that is a work in progress, and name your branch according to the following naming convention: `author_keyword1_keyword2`
-
-* `author`: Please include your initials so that it is clear who is responsible for this branch
-* `keyword1`: A first keyword that relates to the project or feature that you are working on
-* `keyword2`: A second keyword that relates to the project or feature that you are working on
-
-For example, if Mohammed Osman is working on modelling fortification scenarios in Nigeria, he may choose to name his branch: `MO_fortification_nigeria`
+We would recommend that the main branch in your repository should only contain finalised and clean code, therefore avoid committing changes directly to the main branch. Instead, we recommend creating a new branch for any code that is a work in progress, and agreeing a naming convention for branches with your co-collaborators.
 
 If you would like to learn more about branches, please read the following [documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches).
 
-Once you are happy that the code in your branch is ready to be merged into the main branch, please submit a pull request.
+Once you are happy that the code in your branch is ready to be merged into the main branch, you can then submit a pull request.
 
 ### Submitting pull requests
 
