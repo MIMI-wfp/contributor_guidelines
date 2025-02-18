@@ -8,7 +8,7 @@ Whilst every effort has been made to ensure that these guidelines are as detaile
 
 ### Creating a new repository
 
-For each MIMI data or coding project, a GitHub repository is recommended to store and manage your code. If you are an internal team member, you will need to login to the MIMI-wfp account to get a repository set up. Once you are logged in, click on the "Repositories" tab, and then click "New". Give your repository a suitable and self-explanatory name, and decide if you would like your repository to private or public. We recommended that you initialise your repository with a README file, a .gitignore and a GNU General Public License v3.0. Finally, click "Create repository" to complete the process.
+For each MIMI data or coding project, a GitHub repository is recommended to store and manage your code. If you are an internal team member, you will need to login to the MIMI-wfp account to get a repository set up. Once you are logged in, click on the "Repositories" tab, and then click "New". Give your repository a suitable and self-explanatory name, and decide if you would like your repository to be private or public. We recommended that you initialise your repository with a README file, a .gitignore and a GNU General Public License v3.0. Finally, click "Create repository" to complete the process.
 
 If you are an external collaborator, you won't have access to the MIMI-wfp account. Therefore, please discuss with your MIMI focal point, or email us at [HQ.MIMIGitHub@wfp.org](HQ.MIMIGitHub@wfp.org) to get a repository set up.
 
