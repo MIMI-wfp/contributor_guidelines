@@ -45,9 +45,9 @@ To start a pull request. Firstly "push" the branch that you have been working on
 <img width="700" alt="Submit a pull request" src="https://github.com/kmtang/MIMI/assets/90572354/3790d37e-21ff-4126-aa3b-44609b028937">
 </p>
 
-Click this button, and you will be taken to a page where you can "open a pull request". Here you'll be asked to add a title and description for your pull request. You will also be given the opportunity to "Request a review". You should do this whenever you are making contributions to a project that somebody else is working on, by requesting a review from that person, they will be given an opportunity to review the changes and contributions that you have made before merging them into the main branch.
+Click this button, and you will be taken to a page where you can "open a pull request". Here you'll be asked to add a title and description for your pull request. You will also be given the opportunity to "Request a review". At this point, you can request a review from a collaborator to give them an opportunity to review the changes and contributions that you have made before merging them into the main branch.
 
-If you have request a review from someone, please make sure that you inform them that you are doing so.
+It is recommended that you agree a review process with your collaborators for each project. If you have request a review from someone, please make sure that you inform them that you are doing so.
 
 ![Screenshot 2024-03-29 at 12 59 27](https://github.com/kmtang/MIMI/assets/90572354/a949bc29-ab41-45f5-a000-7821cd04fd72)
 
