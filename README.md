@@ -77,7 +77,7 @@ If you would like to learn more about pull requests, please read the following [
 
 ### Summary
 
-These guidelines have outlined a standardised workflow for contributing to MIMI repositories. By following these guidelines, we can ensure that our repository remains tidy and functional, whilst also ensuring that collaboration with other team members is as smooth and streamlined as possible.
+These guidelines have outlined a standardised workflow for contributing to MIMI repositories. By following these guidelines, we can ensure that our repositories remains tidy and functional, whilst also ensuring that collaboration with other team members is as smooth and streamlined as possible.
 
 If you have any suggestions for how we can improve our workflow, we would love to hear them! Thank you for your contributions! 
 
