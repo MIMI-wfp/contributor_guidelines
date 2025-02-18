@@ -28,7 +28,7 @@ If you are an external collaborator and require access to a repository, please d
 
 So that you can start working on a project from your computer, it is helpful to clone the repository to your local machine or cloud hosted development environment. To do so, please follow the these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). 
 
-If you use the GitHub Desktop app, you can alternatively follow these [instructions](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
+If you would rather use a GUI instead of the command line, use the GitHub Desktop app and follow these [instructions](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 
 
 ### Branches
