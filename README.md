@@ -82,5 +82,4 @@ These guidelines have outlined a standardised workflow for contributing to MIMI 
 If you have any suggestions for how we can improve our workflow, we would love to hear them! Thank you for your contributions! 
 
 Author: Mo Osman (18-Feb-2025)
-
 Reviewed:
